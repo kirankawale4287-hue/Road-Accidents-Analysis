@@ -57,9 +57,8 @@ This project focuses on analyzing road accident data and presenting key insights
 Road-Accident-Analysis-Dashboard
 │
 ├── Dashboard.xlsx
-├── Dataset_Accident_Data.xlsx
 ├── README.md
-└── Screenshot.png
+└── RAD.png
 ```
 
 ---
