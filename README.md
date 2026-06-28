@@ -69,7 +69,7 @@ Road-Accident-Analysis-Dashboard
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/kirankawale4287-hue/Road-Accident-Analysis.git
+https://github.com/kirankawale4287-hue/Road-Accidents-Analysis
 ```
 
 2. Open the Excel dashboard file.
